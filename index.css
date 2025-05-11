@@ -1,0 +1,68 @@
+h1 {
+  text-align: center;
+  border: 3px, solid, #a8a1d0;
+}
+
+#p1 {
+  border: 3px, solid, #a8a1d0;
+  margin-left: 0;
+  text-align: center;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding: 5px;
+  background-color: #f5d2bd;
+  font-size: xx-large;
+}
+#p2 {
+  border: 3px, solid, #a8a1d0;
+  margin-left: 0;
+  text-align: left;
+  width: 300px;
+  padding: 5px;
+  background-color: #f5d2bd;
+}
+#p3 {
+  border: 3px, solid, #a8a1d0;
+  margin-left: 0;
+  text-align: left;
+  width: 300px;
+  padding: 5px;
+  background-color: #f5d2bd;
+}
+#p4 {
+  border: 3px, solid, #a8a1d0;
+  margin-left: 0;
+  text-align: left;
+  width: 300px;
+  padding: 5px;
+  background-color: #f5d2bd;
+}
+div {
+}
+.container1 {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  column-gap: 20px;
+}
+button {
+  background-color: #f5d2bd;
+  border-color: #a8a1d0;
+}
+.money {
+  font-weight: bold;
+}
+.article1 {
+}
+.article2 {
+}
+.article3 {
+}
+body {
+}
+p {
+}
+.odd {
+}
+.even {
+}
